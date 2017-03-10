@@ -1,5 +1,5 @@
 # Garen
-가렌 탑에 대해 알아boja
+가렌 탑에 대해 알아
 
 ## Item
-Black Cleaver -> Sunfire -> Visage ->  
+Black Cleaver -> Sunfire -> Visage ->  
