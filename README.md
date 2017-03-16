@@ -1,5 +1,8 @@
 # Garen
-가렌 탑에 대해 알아
+가렌 탑에 대해 알아보자
 
 ## Item
-Black Cleaver -> Sunfire -> Visage ->  
+블클 -> 선파 -> 비사지 -> 망자 -> ...
+
+### 
+가렌 하지마세요
