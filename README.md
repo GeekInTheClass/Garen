@@ -19,5 +19,5 @@
 
 
 
-<img src="/images/garen.jpeg">
+<img src="/images/banrang.jpeg">
 
